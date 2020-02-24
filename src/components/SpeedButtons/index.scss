@@ -1,0 +1,37 @@
+%button-all {
+	cursor: pointer;
+	border: 1px solid black;
+	padding: 10px;
+	width: 60px;
+	font-weight: bold;
+	margin-left: 5px;
+	text-transform: uppercase;
+	outline: none;
+}
+
+button.start {
+	@extend %button-all;
+	background-color: rgb(117, 204, 153);
+	border: none;
+	padding: 10px;
+	height: 33px;
+	width: 75px;
+	margin-left: 8px;
+	color: #fff;
+}
+
+button.speed {
+	@extend %button-all;
+	color: #000;
+	background-color: #fff;
+}
+
+div.speedButtons button:nth-child(1){
+	margin-left: 0px;
+}
+
+button.active {
+	@extend %button-all;
+	background-color: grey;
+	color: #fff;
+}

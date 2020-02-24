@@ -1,0 +1,41 @@
+$red: rgb(255,0,0);
+
+div.timer {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	span {
+		font-size: 120px;
+		font-weight: bold;
+	}
+	
+	img {
+		height: 50px;
+		vertical-align: middle;
+		cursor: pointer;
+	}
+
+	p.warning {
+		color: $red;
+	}
+
+	p.success {
+		color: green;
+	}
+
+	p.warning-blink {
+		color: $red;
+		animation: blinker 1s linear infinite;
+	}
+	@keyframes blinker {
+		50% {
+			opacity: 0;
+		}
+	}
+	div.timer__body {
+		display: flex;  
+		justify-content: center;
+		align-items: center;
+	}
+}
+
