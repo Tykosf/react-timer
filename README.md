@@ -27,6 +27,6 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 ### `Version 1`
-<a href="https://drive.google.com/file/d/19ELOOSaKDDRPlKfGbTiHE3GVDxKPoQ7z/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=19ELOOSaKDDRPlKfGbTiHE3GVDxKPoQ7z" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/file/d/19ELOOSaKDDRPlKfGbTiHE3GVDxKPoQ7z/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=19ELOOSaKDDRPlKfGbTiHE3GVDxKPoQ7z" style="width: 300px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 ### `Version 2`
-<a href="https://drive.google.com/file/d/1_1Kx-e2Di51QpRH5yrdq_v3O7oFxC-d-/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1_1Kx-e2Di51QpRH5yrdq_v3O7oFxC-d-" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/file/d/1_1Kx-e2Di51QpRH5yrdq_v3O7oFxC-d-/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1_1Kx-e2Di51QpRH5yrdq_v3O7oFxC-d-" style="width: 300px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
